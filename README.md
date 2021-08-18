@@ -1,16 +1,3 @@
-# talenthire
+UI Clone of Talent Hiring Up made on Flutter
+![WhatsApp Image 2021-08-19 at 00 28 57](https://user-images.githubusercontent.com/54619624/129956500-a39bc153-076c-4957-bc8d-ba7cb6ec230c.jpeg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
